@@ -1,0 +1,46 @@
+{
+  "games": [
+    {
+      "name": "Maxpayne",
+      "year": "2008",
+      "downloads": "10m+",
+      "id": 3
+    },
+    {
+      "name": "Pubg",
+      "year": "2017",
+      "downloads": "100m+",
+      "id": 4
+    },
+    {
+      "name": "Bgmi",
+      "year": "2021",
+      "downloads": "100m",
+      "id": 5
+    },
+    {
+      "name": "Happywheels",
+      "year": "2002",
+      "downloads": "10m+",
+      "id": 6
+    },
+    {
+      "name": "jghue",
+      "year": "5454",
+      "downloads": "4",
+      "id": 7
+    },
+    {
+      "name": "Gta5",
+      "year": "2018",
+      "downloads": "100m+",
+      "id": 8
+    },
+    {
+      "name": "stumble guy",
+      "year": "2021",
+      "downloads": "1m+",
+      "id": 9
+    }
+  ]
+}
